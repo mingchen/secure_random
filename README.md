@@ -7,6 +7,27 @@ Secure random generator.
 
 This class use cryptographically secure source of random numbers.
 
+## Install
+
+Add this to your package's `pubspec.yaml` file:
+
+
+```yaml
+dependencies:
+  secure_random: ^1.0.0
+```
+
+Then install packages from the command line:
+
+with pub:
+
+    $ pub get
+
+with Flutter:
+
+    $ flutter pub get
+
+
 ## Usage
 
 ```dart
