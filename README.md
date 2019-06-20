@@ -1,5 +1,6 @@
 # secure_random
 
+[![pub package](https://img.shields.io/pub/v/secure_random.svg)](https://pub.dev/packages/secure_random)
 [![Build Status](https://travis-ci.org/mingchen/secure_random.svg?branch=master)](https://travis-ci.org/mingchen/secure_random)
 
 Secure random generator.
