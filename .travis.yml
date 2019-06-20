@@ -1,0 +1,10 @@
+language: dart
+dart:
+# Install the latest stable release
+- stable
+
+dart_task:
+- test: --platform vm
+
+# run the Dart analyzer to verify that your code doesn’t have any static errors
+- dartanalyzer: true
