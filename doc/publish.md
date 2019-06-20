@@ -5,12 +5,12 @@ to make sure their content is complete and correct.
 
 Next, run the dry-run command to see if everything passes analysis:
 
-    flutter pub pub publish --dry-run
+    pub publish --dry-run
 
 
 Finally, run the actual publish command:
 
-    flutter pub publish
+    pub publish
  
  
  ## References
