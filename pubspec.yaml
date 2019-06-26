@@ -1,6 +1,6 @@
 name: secure_random
-description: Secure random generator
-version: 1.0.0
+description: A secure random generator to generate cryptographically secure random string.
+version: 1.0.1
 author: "Ming Chen <ming_c@hotmail.com>"
 homepage: https://github.com/mingchen/secure_random
 
